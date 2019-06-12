@@ -1,7 +1,9 @@
-#make from 
+# make from 
+```
 # https://github.com/katmagic/Shallot
 # https://github.com/ReclaimYourPrivacy/eschalot
-#in kali linux
+```
+# how use,in kali linux
 ```
 git clone https://github.com/hktalent/shallot_eschalot
 cd shallot_eschalot
