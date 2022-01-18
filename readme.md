@@ -15,3 +15,4 @@ chmod +x /usr/local/bin/eschalot
 chmod +x /usr/local/bin/shallot
 
 ```
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/18223385/149917103-163cd46a-0db2-46ea-bb3b-f5fa018b1c30.png">
