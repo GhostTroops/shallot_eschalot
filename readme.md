@@ -3,7 +3,7 @@
 # https://github.com/katmagic/Shallot
 # https://github.com/ReclaimYourPrivacy/eschalot
 ```
-# how use,in kali linux
+# how use,in kali linux, or centos
 ```
 git clone https://github.com/hktalent/shallot_eschalot
 cd shallot_eschalot
